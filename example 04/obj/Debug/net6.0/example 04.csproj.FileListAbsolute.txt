@@ -1,0 +1,15 @@
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\bin\Debug\net6.0\example 04.exe
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\bin\Debug\net6.0\example 04.deps.json
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\bin\Debug\net6.0\example 04.runtimeconfig.json
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\bin\Debug\net6.0\example 04.dll
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\bin\Debug\net6.0\example 04.pdb
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\example 04.csproj.AssemblyReference.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\example 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\example 04.AssemblyInfoInputs.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\example 04.AssemblyInfo.cs
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\example 04.csproj.CoreCompileInputs.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\example 04.dll
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\refint\example 04.dll
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\example 04.pdb
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\example 04.genruntimeconfig.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 04\obj\Debug\net6.0\ref\example 04.dll
