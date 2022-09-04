@@ -1,0 +1,15 @@
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\example 01.csproj.AssemblyReference.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\example 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\example 01.AssemblyInfoInputs.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\example 01.AssemblyInfo.cs
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\example 01.csproj.CoreCompileInputs.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\bin\Debug\net6.0\example 01.exe
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\bin\Debug\net6.0\example 01.deps.json
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\bin\Debug\net6.0\example 01.runtimeconfig.json
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\bin\Debug\net6.0\example 01.dll
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\bin\Debug\net6.0\example 01.pdb
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\example 01.dll
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\refint\example 01.dll
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\example 01.pdb
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\example 01.genruntimeconfig.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\example 01\obj\Debug\net6.0\ref\example 01.dll
