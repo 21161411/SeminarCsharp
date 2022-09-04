@@ -1,0 +1,15 @@
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\bin\Debug\net6.0\2 zadacha.exe
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\bin\Debug\net6.0\2 zadacha.deps.json
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\bin\Debug\net6.0\2 zadacha.runtimeconfig.json
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\bin\Debug\net6.0\2 zadacha.dll
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\bin\Debug\net6.0\2 zadacha.pdb
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\2 zadacha.csproj.AssemblyReference.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\2 zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\2 zadacha.AssemblyInfoInputs.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\2 zadacha.AssemblyInfo.cs
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\2 zadacha.csproj.CoreCompileInputs.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\2 zadacha.dll
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\refint\2 zadacha.dll
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\2 zadacha.pdb
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\2 zadacha.genruntimeconfig.cache
+C:\Users\lolbe\OneDrive\Desktop\seminarCsharp\DZ-1\2 zadacha\obj\Debug\net6.0\ref\2 zadacha.dll
