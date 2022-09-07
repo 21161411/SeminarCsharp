@@ -9,7 +9,7 @@ void FillArray(int[] array)
         array[index] = new Random().Next(1, 100);
         index++;
     }
-    int IndexOfO = new Random().Next(1, 100);
+    int IndexOfO = new Random().Next(2, 99);
     array[IndexOfO] = 0;
 }
 
