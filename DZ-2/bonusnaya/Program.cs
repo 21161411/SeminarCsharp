@@ -46,7 +46,7 @@ Console.WriteLine(MaxIndex(array));
 
 int SecondMax(int[] array)
 {
-    int max2 = 0;    
+    int max2 = -1;    
     for(int i = 0; i < array.Length; i++)
     {
         if (array[i] > max2 && array[i] != result1)
