@@ -9,6 +9,8 @@ void FillArray(int[] array)
         array[index] = new Random().Next(1, 100);
         index++;
     }
+    int IndexOfO = new Random().Next(1, 100);
+    array[IndexOfO] = 0;
 }
 
 void PrintArray(int[] ar)
