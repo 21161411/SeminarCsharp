@@ -1,0 +1,28 @@
+﻿Console.WriteLine("Сколько посадили кустов: ");
+
+int numbers = Convert.ToInt32(Console.ReadLine());
+while(numbers < 3)
+{
+    Console.WriteLine("Мало кустов, посадите больше: ");
+    numbers = Convert.ToInt32(Console.ReadLine());
+
+}
+//int numbers = new Random().Next(3, 1001);
+int[] kusti = new int[numbers];
+int sum = 0;
+for(int i = 0; i < kusti.Length; i++)
+{
+    kusti[i] = new Random().Next(0,100);
+    sum = sum + kusti[i];
+    if(sum >= 1000) break;
+
+}
+Console.WriteLine(string.Join(" ", kusti));
+
+int max = 0;
+for(int j = 1; j < kusti.Length -1 ; j++)
+{
+    int max2 = kusti[j-1] + kusti[j] + kusti[j+1];
+    if (max < max2) max = max2;
+}
+Console.WriteLine(max);
