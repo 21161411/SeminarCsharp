@@ -12,17 +12,17 @@ void FillArray(int[] array)
 
 FillArray(array);
 
-void PrintArray(int[] arr)
-{
-    int position = 0;
-    while(position < arr.Length)
-    {
-        Console.Write(arr[position] + " ");
-        position++;
-    }
+// void PrintArray(int[] arr)
+// {
+//     int position = 0;
+//     while(position < arr.Length)
+//     {
+//         Console.Write(arr[position] + " ");
+//         position++;
+//     }
 
 
-}
+// }
 
 //PrintArray(array);
 
